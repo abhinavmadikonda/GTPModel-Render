@@ -1,4 +1,4 @@
 Flask
 Gunicorn
 request
-openai == 0.23
+openai == 0.28.0
